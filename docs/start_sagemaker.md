@@ -8,7 +8,7 @@ This is a quick guide to starting v3 of the fast.ai course Practical Deep Learni
 
 ## Pricing
 
-The instance we suggest, ml.p2.xlarge, is $1.26 an hour. The hourly rate is dependent on the instance type selected, see all available types [here](https://aws.amazon.com/sagemaker/pricing/).  You will need to explicitely request a limit request to use this instance, [here](https://course-v3.fast.ai/start_aws.html#step-2-request-service-limit ) Instances must be stopped to end billing.
+The instance we suggest, ml.p2.xlarge, is $1.26 an hour. The hourly rate is dependent on the instance type selected, see all available types [here](https://aws.amazon.com/sagemaker/pricing/).  You will need to explicitely request a limit request to use this instance, [here](https://console.aws.amazon.com/support/v1#/case/create?issueType=service-limit-increase) Instances must be stopped to end billing.
 
 ## Getting Set Up
 
